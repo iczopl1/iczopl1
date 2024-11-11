@@ -22,7 +22,6 @@ Python i Sztuczna Inteligencja: Analiza danych oraz budowa modeli do przewidywan
 ## 🛠️ Narzędzia i Technologie
 Języki: Python, C/C++  
 Mikrokontrolery: STM32  
-AI Frameworki: TensorFlow, PyTorch  
 Narzędzia: Git, VS Code  
 ## 📫 Kontakt
 E-mail: przystasireneusz@gmail.com  
