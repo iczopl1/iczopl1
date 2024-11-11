@@ -11,13 +11,13 @@ Jestem Ireneusz, pasjonat automatyki i programowania, który łączy zainteresow
 Politechnika Rzeszowska	Automatyka i Robotyka	2024 - obecnie  
 ## 🌱 Aktualnie uczę się:
 Algorytmy i metody uczenia maszynowego – przenoszę teorię na praktykę!  
-Biblioteki Python do AI: TensorFlow, PyTorch  
+Biblioteki Python: tkinter,numpy,cv2
 Programowanie mikrokontrolerów STM32 w języku C/C++  
 ## 📈 Statystyki GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iczopl1&show_icons=true&theme=radical)
 ## 💼 Projekty
 AI w automatyce: Prototypowanie algorytmów do sterowania systemami automatycznymi.  
-STM32: Budowa układów pomiarowych i kontrolnych opartych na mikrokontrolerach STM32.  
+STM32: Tworzenie samochodu.  
 Python i Sztuczna Inteligencja: Analiza danych oraz budowa modeli do przewidywania zachowań systemów.  
 ## 🛠️ Narzędzia i Technologie
 Języki: Python, C/C++  
